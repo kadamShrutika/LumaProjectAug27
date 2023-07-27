@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/com/luma/pageLayer/CartPage.java=ISO-8859-1
+encoding//src/main/java/com/luma/pageLayer/ConfirmationPage.java=ISO-8859-1
+encoding//src/main/java/com/luma/pageLayer/HomePage.java=ISO-8859-1
+encoding//src/main/java/com/luma/pageLayer/LoginPage.java=ISO-8859-1
+encoding//src/main/java/com/luma/pageLayer/ProductPage.java=ISO-8859-1
+encoding//src/main/java/com/luma/testBase/TestBase.java=ISO-8859-1
+encoding//src/main/java/com/luma/utilities/ExtentReporterNG.java=ISO-8859-1
+encoding//src/main/java/com/luma/utilities/ListenerSetup.java=ISO-8859-1
+encoding//src/main/java/com/luma/utilities/UtilClass.java=ISO-8859-1
+encoding//src/test/java=UTF-8
+encoding//src/test/java/com/luma/testLayer/BuyFuctionality.java=ISO-8859-1
+encoding//src/test/java/com/luma/testLayer/LoginPageTest.java=ISO-8859-1
+encoding/<project>=UTF-8
